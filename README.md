@@ -1,5 +1,5 @@
 🚀 Welcome to the BMI Calculator React App! 🌟
-
+![Demo](./ezgif.com-crop.gif)
 Dive into the magic of the State Hook with this simple yet powerful project. Using the useState hook, I've crafted a BMI calculator that not only crunches the numbers but dynamically updates health tips and colors based on your results. It's amazing how a small hook can make a big impact on user experience!
 
 ### Features:
@@ -15,4 +15,4 @@ Your journey to a healthier you starts here! 🏋️‍♂️💪
 
 Happy coding and stay healthy! 🌈✨
 
-![Demo](./ezgif.com-crop.gif)
+
