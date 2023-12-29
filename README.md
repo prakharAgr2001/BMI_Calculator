@@ -14,3 +14,5 @@ Give it a spin and check your own BMI! [Live BMI Calculator](https://lnkd.in/dKf
 Your journey to a healthier you starts here! 🏋️‍♂️💪
 
 Happy coding and stay healthy! 🌈✨
+
+![Demo](./ezgif.com-crop.gif)
